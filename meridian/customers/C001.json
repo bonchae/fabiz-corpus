@@ -1,0 +1,7 @@
+{
+  "customer_id": "C001",
+  "name": "Acme Manufacturing",
+  "plan": "Enterprise",
+  "health_score": 42,
+  "tenure_months": 38
+}
