@@ -1,0 +1,37 @@
+{
+  "C001": {
+    "customer_id": "C001",
+    "name": "Acme Manufacturing",
+    "plan": "Enterprise",
+    "health_score": 42,
+    "tenure_months": 38
+  },
+  "C002": {
+    "customer_id": "C002",
+    "name": "Beacon Retail",
+    "plan": "Professional",
+    "health_score": 18,
+    "tenure_months": 14
+  },
+  "C003": {
+    "customer_id": "C003",
+    "name": "Cascade Media",
+    "plan": "Enterprise",
+    "health_score": 67,
+    "tenure_months": 52
+  },
+  "C004": {
+    "customer_id": "C004",
+    "name": "Delta Logistics",
+    "plan": "Professional",
+    "health_score": 89,
+    "tenure_months": 8
+  },
+  "C005": {
+    "customer_id": "C005",
+    "name": "Echo Research",
+    "plan": "Starter",
+    "health_score": 23,
+    "tenure_months": 4
+  }
+}
